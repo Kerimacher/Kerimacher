@@ -1,6 +1,6 @@
 ### Hi there, I'm Kerimcan! 👋
 
-I'm a Computer Programming student at KTU, passionate about data, backend development, and building efficient systems.
+I'm a Computer Programming student at KTU, passionate about data, full-stack development, and building efficient systems.
 
 ---
 
