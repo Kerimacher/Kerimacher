@@ -16,7 +16,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C#, PHP, JavaScript, SQL |
-| **Data & ML** | Data Analysis, Machine Learning (Random Forest) |
+| **Data & ML** | Data Analysis, Machine Learning (Regression Models) |
 | **Databases** | MSSQL, MySQL |
 | **Web Dev** | HTML5, CSS3, PHP |
 | **Tools** | Visual Studio, VS Code, PyCharm, Cursor, Git/GitHub |
