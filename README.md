@@ -17,9 +17,9 @@ I'm a Computer Programming student at KTÜ, passionate about data, backend devel
 | :--- | :--- |
 | **Languages** | C#, Python, PHP, JavaScript, SQL |
 | **Databases** | MSSQL, MySQL |
-| **Web Dev** | HTML5, CSS3, ASP.NET |
-| **Tools** | Visual Studio, VS Code, Git/GitHub |
-| **Data** | Data Analysis, Machine Learning (Upcoming) |
+| **Web Dev** | HTML5, CSS3, PHP |
+| **Tools** | Visual Studio, VS Code, Cursor, Git/GitHub |
+| **Data** | Data Analysis, Machine Learning |
 
 ---
 
