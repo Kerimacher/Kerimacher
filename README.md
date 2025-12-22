@@ -15,7 +15,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mssql,html,css,js,php,vscode,visualstudio,cursor,pycharm,git,github,stackoverflow,linkedin&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,sql,html,css,js,php,vscode,visualstudio,cursor,pycharm,git,github,stackoverflow,linkedin&theme=dark" alt="My Skills" />
   </a>
 </p>
 <br>
