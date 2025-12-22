@@ -11,15 +11,14 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Skills & Technologies
+<h3 align="left">🛠️ Skills & Technologies</h3>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C#, PHP, JavaScript, SQL |
-| **Data & ML** | Data Analysis, Machine Learning (Regression Models) |
-| **Databases** | MSSQL, MySQL |
-| **Web Dev** | HTML5, CSS3, PHP |
-| **Tools** | Visual Studio, VS Code, PyCharm, Cursor, Git/GitHub |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,php,js,mysql,mssql,html,css,visualstudio,vscode,pycharm,git,github,stackoverflow,linkedin&theme=dark" alt="My Skills" />
+  </a>
+</p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
