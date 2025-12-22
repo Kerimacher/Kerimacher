@@ -15,21 +15,25 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C#, Python, PHP, JavaScript, SQL |
+| **Languages** | Python, C#, PHP, JavaScript, SQL |
+| **Data & ML** | Data Analysis, Machine Learning (Random Forest) |
 | **Databases** | MSSQL, MySQL |
 | **Web Dev** | HTML5, CSS3, PHP |
 | **Tools** | Visual Studio, VS Code, PyCharm, Cursor, Git/GitHub |
-| **Data** | Data Analysis, Machine Learning |
 
 ---
 
 ### 📂 My Key Projects
 
+#### 🔮 **[Sugar Production Prediction ML](https://github.com/Kerimacher/Sugar-Production-Prediction-ML)**
+* A data analysis project using **Python (Random Forest)** to predict sugar production efficiency based on agricultural inputs.
+* *Note: Data has been masked for commercial confidentiality.*
+
 #### 🏭 **[Internship C# Tools Collection](https://github.com/Kerimacher/Internship-CSharp-Tools)**
 * Developed WinForms applications for **daily stock tracking** and **machinery fault management** at Sukkar Şeker A.Ş.
 * Streamlined factory operations and digitized manual processes.
 
-#### 🏋️‍♂️ **[K's Gym Solid Sports - Web App](https://github.com/Kerimacher/Ks-Gym-Fitness-Web-App)**
+#### 🏋️‍♂️ **[K's Gym Solid Sports - Web App](https://github.com/Kerimacher/K's-Gym-Fitness-Web-App)**
 * A full-stack web application for fitness enthusiasts.
 * Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MySQL.
 
