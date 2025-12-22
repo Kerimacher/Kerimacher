@@ -33,7 +33,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 * Developed WinForms applications for **daily stock tracking** and **machinery fault management** at Sukkar Şeker A.Ş.
 * Streamlined factory operations and digitized manual processes.
 
-#### 🏋️‍♂️ **[K's Gym Solid Sports - Web App](https://github.com/Kerimacher/K's-Gym-Fitness-Web-App)**
+#### 🏋️‍♂️ **[K-s Gym Solid Sports - Web App](https://github.com/Kerimacher/K's-Gym-Fitness-Web-App)**
 * A full-stack web application for fitness enthusiasts.
 * Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MySQL.
 
