@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Selam%20Ben%20SeninAdın&fontSize=90)
 ### Hi there, I'm Kerimcan! 👋
 
 I'm a Computer Programming student at KTU, passionate about data, full-stack development, and building efficient systems.
