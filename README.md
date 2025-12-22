@@ -10,7 +10,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 * 💼 **Experience:** Internship at Sukkar Seker (Developed C# WinForms tools for production & fault tracking)
 * 🎯 **Goal:** To leverage my skills in a data-driven role and contribute to innovative software development projects.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Skills & Technologies
 
@@ -22,7 +22,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 | **Web Dev** | HTML5, CSS3, PHP |
 | **Tools** | Visual Studio, VS Code, PyCharm, Cursor, Git/GitHub |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📂 My Key Projects
 
@@ -38,7 +38,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 * A full-stack web application for fitness enthusiasts.
 * Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MySQL.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kerimacher&show_icons=true&theme=radical" alt="Kerimcan's Github Stats">
