@@ -6,7 +6,7 @@ I'm a Computer Programming student at KTU, passionate about data, backend develo
 
 ### 🚀 About Me
 * 🎓 **Education:** Karadeniz Technical University - Computer Programming
-* 💼 **Experience:** Internship at Sukkar Şeker A.Ş. (Developed C# WinForms tools for production & fault tracking)
+* 💼 **Experience:** Internship at Sukkar Seker (Developed C# WinForms tools for production & fault tracking)
 * 🎯 **Goal:** To leverage my skills in a data-driven role and contribute to innovative software development projects.
 
 ---
