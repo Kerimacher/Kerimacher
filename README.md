@@ -14,11 +14,18 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 <h3 align="left">🛠️ Skills & Technologies</h3>
 
 <p align="left">
+  <strong>Languages:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,html,css,js,php,vscode,visualstudio,pycharm,git,github,linkedin&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,py,php,js,html,css&theme=dark" alt="Languages" />
   </a>
 </p>
-<br>
+
+<p align="left">
+  <strong>Tools & Databases:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mssql,mysql,git,github,visualstudio,vscode,pycharm&theme=dark" alt="Tools" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
