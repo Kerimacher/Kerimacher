@@ -17,7 +17,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
   <strong>Languages:</strong>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,php,js,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,cs,php,html,css,js&theme=dark" alt="Languages" />
   </a>
 </p>
 
