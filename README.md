@@ -23,20 +23,6 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 | **Tools** | Visual Studio, VS Code, PyCharm, Cursor, Git/GitHub |
 
 ---
-<div align="center">
-  <svg height="15px" width="100%">
-    <defs>
-      <linearGradient id="navy-white-fade" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#020024;stop-opacity:1" />
-        <stop offset="25%" style="stop-color:#090979;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#ffffff;stop-opacity:1" />
-        <stop offset="75%" style="stop-color:#090979;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#020024;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="15px" fill="url(#navy-white-fade)" rx="8" ry="8"/>
-  </svg>
-</div>
 
 ### 📂 My Key Projects
 
