@@ -43,7 +43,7 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 
 #### 🏋️‍♂️ **[K's Gym Solid Sports Web App](https://github.com/Kerimacher/K-s-Gym-Fitness-Web-App)**
 * A full-stack web application for fitness enthusiasts.
-* Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MySQL.
+* Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MSSQL.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
