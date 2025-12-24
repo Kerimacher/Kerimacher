@@ -46,7 +46,3 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 * Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MSSQL.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kerimacher&show_icons=true&theme=radical" alt="Kerimcan's Github Stats">
-</p>
