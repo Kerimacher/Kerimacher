@@ -38,11 +38,11 @@ I'm a Computer Programming student at KTU, passionate about data, full-stack dev
 * *Note: Data has been masked for commercial confidentiality.*
 
 #### 🏭 **[Internship C# Tools Collection](https://github.com/Kerimacher/Internship-CSharp-Tools)**
-* Developed WinForms applications for **daily stock tracking** and **machinery fault management** at Sukkar Şeker A.Ş.
+* Developed WinForms applications for **daily stock tracking** and **machinery fault management** at Sukkar Seker A.Ş.
 * Streamlined factory operations and digitized manual processes.
 
 #### 🏋️‍♂️ **[K's Gym Solid Sports Web App](https://github.com/Kerimacher/K-s-Gym-Fitness-Web-App)**
-* A full-stack web application for fitness enthusiasts.
+* A full-stack web application for fitness enthusiasts developed as my graduation project.
 * Features **calorie calculation**, **dietitian appointment booking**, and a **dynamic backend** with PHP & MSSQL.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
