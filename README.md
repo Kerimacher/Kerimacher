@@ -1,4 +1,4 @@
-Hi there, I'm Kerimcan! 👋
+Hi there, I'm Kerim! 👋
 
 I'm a Computer Programming student at KTU, passionate about data, full-stack development, and building efficient systems.
 
